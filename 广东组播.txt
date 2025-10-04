@@ -1,3 +1,4 @@
+省内卫视,#genre#
 广东卫视,http://gy.topxixi.top:4022/udp/239.77.1.19:5146
 广东卫视,http://gy.topxixi.top:4022/udp/239.77.1.152:5146
 广东卫视,http://gy.topxixi.top:4022/udp/239.77.0.166:5146
@@ -66,6 +67,8 @@ HZTV-2,http://gy.topxixi.top:4022/udp/239.77.1.233:5146
 汕头经济生活,http://gy.topxixi.top:4022/udp/239.253.43.46:5146
 中山综合频道,http://gy.topxixi.top:4022/udp/239.253.43.62:5146
 香山文化频道,http://gy.topxixi.top:4022/udp/239.253.43.63:5146
+
+央视,#genre#
 CCTV-1综合,http://gy.topxixi.top:4022/udp/239.77.1.144:5146
 CCTV-2财经,http://gy.topxixi.top:4022/udp/239.77.1.158:5146
 CCTV-3综艺,http://gy.topxixi.top:4022/udp/239.77.0.169:5146
@@ -99,6 +102,8 @@ CCTV-女性时尚,http://gy.topxixi.top:4022/udp/239.253.43.8:5146
 CCTV-世界地理,http://gy.topxixi.top:4022/udp/239.253.43.7:5146
 CCTV-央视台球,http://gy.topxixi.top:4022/udp/239.253.43.11:5146
 CCTV-文化精品,http://gy.topxixi.top:4022/udp/239.253.43.13:5146
+
+省外卫视,#genre#
 湖南卫视,http://gy.topxixi.top:4022/udp/239.77.1.5:5146
 浙江卫视,http://gy.topxixi.top:4022/udp/239.77.1.33:5146
 江苏卫视,http://gy.topxixi.top:4022/udp/239.77.1.18:5146
@@ -137,5 +142,6 @@ CGTN阿拉伯语,http://gy.topxixi.top:4022/udp/239.253.43.200:5146
 CGTN俄语,http://gy.topxixi.top:4022/udp/239.253.43.201:5146
 睛彩篮球,http://gy.topxixi.top:4022/udp/239.77.1.21:5146
 睛彩青少,http://gy.topxixi.top:4022/udp/239.77.1.22:5146
+
+影视,#genre#
 哪吒之魔童闹海,https://alist.ahxin.cn/d/%E8%AE%BF%E5%AE%A2/video/%E5%8A%A8%E7%94%BB%E7%89%87/%5B%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%5D.Ne.Zha.2.2025.1080p.WEB-DL.H264.AAC-OurTV.mp4?sign=_TNN-Ms4O74sDOBLzh57m6hDZZo1AsMLfeDwy-9JHgo=:0
-hhhhhh

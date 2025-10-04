@@ -1,3 +1,5 @@
+电视直播源-个人维护
+
 央视,#genre#
 CCTV-1综合,http://gy.topxixi.top:4022/udp/239.77.1.144:5146
 CCTV-2财经,http://gy.topxixi.top:4022/udp/239.77.1.158:5146
@@ -139,6 +141,14 @@ CGTN俄语,http://gy.topxixi.top:4022/udp/239.253.43.201:5146
 
 港澳台,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
+翡翠台,http://xhyx.gz.cn:1698/hls/5/index.m3u8
+新视觉,http://xhyx.gz.cn:1698/hls/10/index.m3u8
+珠江,http://xhyx.gz.cn:1698/hls/26/index.m3u8
+凤凰资讯,http://xhyx.gz.cn:1698/hls/31/index.m3u8
+凤凰中文,http://xhyx.gz.cn:1698/hls/32/index.m3u8
+星河频道,http://xhyx.gz.cn:1698/hls/53/index.m3u8
+天映经典,http://xhyx.gz.cn:1698/hls/54/index.m3u8
 
 本地节目,#genre#
 揭阳综合频道,http://gy.topxixi.top:4022/udp/239.77.0.229:5146
@@ -152,6 +162,11 @@ CGTN俄语,http://gy.topxixi.top:4022/udp/239.253.43.201:5146
 哪吒之魔童闹海,https://alist.ahxin.cn/d/%E8%AE%BF%E5%AE%A2/video/%E5%8A%A8%E7%94%BB%E7%89%87/%5B%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%5D.Ne.Zha.2.2025.1080p.WEB-DL.H264.AAC-OurTV.mp4?sign=_TNN-Ms4O74sDOBLzh57m6hDZZo1AsMLfeDwy-9JHgo=:0
 
 备用分组,#genre#
+
+影迷电影,http://xhyx.gz.cn:1698/hls/11/index.m3u8
+家庭电影,http://xhyx.gz.cn:1698/hls/12/index.m3u8
+动作电影,http://xhyx.gz.cn:1698/hls/13/index.m3u8
+
 CCTV1,http://go.061899.xyz/mg/cctv1
 CCTV2,http://go.061899.xyz/mg/cctv2
 CCTV3,http://go.061899.xyz/mg/cctv3
